@@ -46,7 +46,6 @@ $(document).ready(function() {
     		transition: 'fade2',
     		transitionDuration: 4000,
     		slides: [
-    			{ src: "./img/anh2.jpg" },
     			{ src: "./img/anh3.jpg" },
     			{ src: "./img/anh4.jpg" },
     			{ src: "./img/anh5.jpg" }
